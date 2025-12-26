@@ -1,0 +1,29 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "stats": [
+    {
+      "code": "RF",
+      "n": 14,
+      "avg_saved_sec": 90.64285714285714,
+      "min_saved_sec": -6,
+      "max_saved_sec": 307
+    },
+    {
+      "code": "HH",
+      "n": 6,
+      "avg_saved_sec": 379.6666666666667,
+      "min_saved_sec": 165,
+      "max_saved_sec": 464
+    },
+    {
+      "code": "8M",
+      "n": 8,
+      "avg_saved_sec": 53.75,
+      "min_saved_sec": -45,
+      "max_saved_sec": 144
+    }
+  ]
+}

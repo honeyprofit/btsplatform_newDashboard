@@ -1,0 +1,8 @@
+{
+  "generated_at": "2025-01-01T10:00:00",
+  "workers": [
+    { "name": "A작업자", "avg_sec_per_seat": 4.2 },
+    { "name": "B작업자", "avg_sec_per_seat": 5.1 },
+    { "name": "C작업자", "avg_sec_per_seat": 3.8 }
+  ]
+}

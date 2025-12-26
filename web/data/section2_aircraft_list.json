@@ -1,0 +1,34 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "airlines": [
+    "HH",
+    "RF",
+    "8M"
+  ],
+  "aircraft_by_airline": {
+    "8M": [
+      {
+        "aircraft": "B1",
+        "n": 8,
+        "standard_sec": 980
+      }
+    ],
+    "HH": [
+      {
+        "aircraft": "B4",
+        "n": 6,
+        "standard_sec": 1458
+      }
+    ],
+    "RF": [
+      {
+        "aircraft": "Unknown",
+        "n": 14,
+        "standard_sec": 1050
+      }
+    ]
+  }
+}

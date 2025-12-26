@@ -1,0 +1,511 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "series": {
+    "8M|라바": [
+      {
+        "yyyymmdd": 20251207,
+        "members": 1,
+        "sum_sec": 817,
+        "avg_min": 13.62
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 1,
+        "sum_sec": 949,
+        "avg_min": 15.82
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 1,
+        "sum_sec": 817,
+        "avg_min": 13.62
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 1,
+        "sum_sec": 977,
+        "avg_min": 16.28
+      },
+      {
+        "yyyymmdd": 20251214,
+        "members": 1,
+        "sum_sec": 896,
+        "avg_min": 14.93
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 1,
+        "sum_sec": 813,
+        "avg_min": 13.55
+      },
+      {
+        "yyyymmdd": 20251219,
+        "members": 1,
+        "sum_sec": 1119,
+        "avg_min": 18.65
+      }
+    ],
+    "8M|로보캅": [
+      {
+        "yyyymmdd": 20251207,
+        "members": 1,
+        "sum_sec": 814,
+        "avg_min": 13.57
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 1,
+        "sum_sec": 945,
+        "avg_min": 15.75
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 1,
+        "sum_sec": 717,
+        "avg_min": 11.95
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 1,
+        "sum_sec": 1001,
+        "avg_min": 16.68
+      },
+      {
+        "yyyymmdd": 20251214,
+        "members": 1,
+        "sum_sec": 852,
+        "avg_min": 14.2
+      },
+      {
+        "yyyymmdd": 20251216,
+        "members": 1,
+        "sum_sec": 914,
+        "avg_min": 15.23
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 1,
+        "sum_sec": 884,
+        "avg_min": 14.73
+      },
+      {
+        "yyyymmdd": 20251219,
+        "members": 1,
+        "sum_sec": 957,
+        "avg_min": 15.95
+      }
+    ],
+    "8M|소닉": [
+      {
+        "yyyymmdd": 20251207,
+        "members": 5,
+        "sum_sec": 4079,
+        "avg_min": 13.6
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 4,
+        "sum_sec": 3895,
+        "avg_min": 16.23
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 5,
+        "sum_sec": 3988,
+        "avg_min": 13.29
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 4,
+        "sum_sec": 3988,
+        "avg_min": 16.62
+      },
+      {
+        "yyyymmdd": 20251214,
+        "members": 5,
+        "sum_sec": 4433,
+        "avg_min": 14.78
+      },
+      {
+        "yyyymmdd": 20251216,
+        "members": 5,
+        "sum_sec": 4443,
+        "avg_min": 14.81
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 5,
+        "sum_sec": 4048,
+        "avg_min": 13.49
+      },
+      {
+        "yyyymmdd": 20251219,
+        "members": 5,
+        "sum_sec": 4560,
+        "avg_min": 15.2
+      }
+    ],
+    "HH|라바": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 1,
+        "sum_sec": 1044,
+        "avg_min": 17.4
+      },
+      {
+        "yyyymmdd": 20251208,
+        "members": 1,
+        "sum_sec": 1073,
+        "avg_min": 17.88
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 1,
+        "sum_sec": 1038,
+        "avg_min": 17.3
+      },
+      {
+        "yyyymmdd": 20251213,
+        "members": 1,
+        "sum_sec": 1200,
+        "avg_min": 20.0
+      },
+      {
+        "yyyymmdd": 20251215,
+        "members": 1,
+        "sum_sec": 1052,
+        "avg_min": 17.53
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 1,
+        "sum_sec": 891,
+        "avg_min": 14.85
+      }
+    ],
+    "HH|로보캅": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 1,
+        "sum_sec": 1022,
+        "avg_min": 17.03
+      },
+      {
+        "yyyymmdd": 20251208,
+        "members": 2,
+        "sum_sec": 2092,
+        "avg_min": 17.43
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 2,
+        "sum_sec": 2061,
+        "avg_min": 17.18
+      },
+      {
+        "yyyymmdd": 20251213,
+        "members": 2,
+        "sum_sec": 2369,
+        "avg_min": 19.74
+      },
+      {
+        "yyyymmdd": 20251215,
+        "members": 1,
+        "sum_sec": 1015,
+        "avg_min": 16.92
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 2,
+        "sum_sec": 1868,
+        "avg_min": 15.57
+      }
+    ],
+    "HH|소닉": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 7,
+        "sum_sec": 6223,
+        "avg_min": 14.82
+      },
+      {
+        "yyyymmdd": 20251208,
+        "members": 6,
+        "sum_sec": 5530,
+        "avg_min": 15.36
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 6,
+        "sum_sec": 5702,
+        "avg_min": 15.84
+      },
+      {
+        "yyyymmdd": 20251213,
+        "members": 7,
+        "sum_sec": 8470,
+        "avg_min": 20.17
+      },
+      {
+        "yyyymmdd": 20251215,
+        "members": 6,
+        "sum_sec": 5937,
+        "avg_min": 16.49
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 6,
+        "sum_sec": 4979,
+        "avg_min": 13.83
+      }
+    ],
+    "RF|라바": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 1,
+        "sum_sec": 566,
+        "avg_min": 9.43
+      },
+      {
+        "yyyymmdd": 20251207,
+        "members": 1,
+        "sum_sec": 913,
+        "avg_min": 15.22
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 1,
+        "sum_sec": 969,
+        "avg_min": 16.15
+      },
+      {
+        "yyyymmdd": 20251210,
+        "members": 1,
+        "sum_sec": 933,
+        "avg_min": 15.55
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 1,
+        "sum_sec": 1074,
+        "avg_min": 17.9
+      },
+      {
+        "yyyymmdd": 20251216,
+        "members": 1,
+        "sum_sec": 1044,
+        "avg_min": 17.4
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 1,
+        "sum_sec": 740,
+        "avg_min": 12.33
+      },
+      {
+        "yyyymmdd": 20251219,
+        "members": 1,
+        "sum_sec": 920,
+        "avg_min": 15.33
+      }
+    ],
+    "RF|로보캅": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 1,
+        "sum_sec": 738,
+        "avg_min": 12.3
+      },
+      {
+        "yyyymmdd": 20251207,
+        "members": 1,
+        "sum_sec": 1079,
+        "avg_min": 17.98
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 1,
+        "sum_sec": 969,
+        "avg_min": 16.15
+      },
+      {
+        "yyyymmdd": 20251210,
+        "members": 1,
+        "sum_sec": 796,
+        "avg_min": 13.27
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 2,
+        "sum_sec": 1745,
+        "avg_min": 14.54
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 1,
+        "sum_sec": 882,
+        "avg_min": 14.7
+      },
+      {
+        "yyyymmdd": 20251213,
+        "members": 1,
+        "sum_sec": 1086,
+        "avg_min": 18.1
+      },
+      {
+        "yyyymmdd": 20251214,
+        "members": 1,
+        "sum_sec": 881,
+        "avg_min": 14.68
+      },
+      {
+        "yyyymmdd": 20251216,
+        "members": 1,
+        "sum_sec": 901,
+        "avg_min": 15.02
+      },
+      {
+        "yyyymmdd": 20251217,
+        "members": 1,
+        "sum_sec": 904,
+        "avg_min": 15.07
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 1,
+        "sum_sec": 900,
+        "avg_min": 15.0
+      }
+    ],
+    "RF|소닉": [
+      {
+        "yyyymmdd": 20251206,
+        "members": 5,
+        "sum_sec": 3578,
+        "avg_min": 11.93
+      },
+      {
+        "yyyymmdd": 20251207,
+        "members": 4,
+        "sum_sec": 3864,
+        "avg_min": 16.1
+      },
+      {
+        "yyyymmdd": 20251208,
+        "members": 8,
+        "sum_sec": 6973,
+        "avg_min": 14.53
+      },
+      {
+        "yyyymmdd": 20251209,
+        "members": 3,
+        "sum_sec": 2757,
+        "avg_min": 15.32
+      },
+      {
+        "yyyymmdd": 20251210,
+        "members": 5,
+        "sum_sec": 4334,
+        "avg_min": 14.45
+      },
+      {
+        "yyyymmdd": 20251211,
+        "members": 5,
+        "sum_sec": 4356,
+        "avg_min": 14.52
+      },
+      {
+        "yyyymmdd": 20251212,
+        "members": 4,
+        "sum_sec": 3964,
+        "avg_min": 16.52
+      },
+      {
+        "yyyymmdd": 20251213,
+        "members": 6,
+        "sum_sec": 5805,
+        "avg_min": 16.12
+      },
+      {
+        "yyyymmdd": 20251214,
+        "members": 3,
+        "sum_sec": 2713,
+        "avg_min": 15.07
+      },
+      {
+        "yyyymmdd": 20251215,
+        "members": 6,
+        "sum_sec": 5688,
+        "avg_min": 15.8
+      },
+      {
+        "yyyymmdd": 20251216,
+        "members": 4,
+        "sum_sec": 3919,
+        "avg_min": 16.33
+      },
+      {
+        "yyyymmdd": 20251217,
+        "members": 6,
+        "sum_sec": 5169,
+        "avg_min": 14.36
+      },
+      {
+        "yyyymmdd": 20251218,
+        "members": 5,
+        "sum_sec": 4231,
+        "avg_min": 14.1
+      },
+      {
+        "yyyymmdd": 20251219,
+        "members": 6,
+        "sum_sec": 5351,
+        "avg_min": 14.86
+      }
+    ]
+  },
+  "period_avg_min": {
+    "HH|소닉": 16.16,
+    "HH|라바": 17.49,
+    "HH|로보캅": 17.38,
+    "RF|소닉": 14.93,
+    "RF|라바": 14.91,
+    "RF|로보캅": 15.11,
+    "8M|소닉": 14.66,
+    "8M|라바": 15.21,
+    "8M|로보캅": 14.76
+  },
+  "meta": {
+    "exclude_labels": [
+      "OJT",
+      "무효"
+    ],
+    "sonic_prefixes": [
+      "소닉1",
+      "소닉2",
+      "소닉3",
+      "소닉4",
+      "소닉5",
+      "소닉6",
+      "소닉백업존",
+      "Y좌석",
+      "C좌석"
+    ],
+    "lava_prefixes": [
+      "라바",
+      "라바백업"
+    ],
+    "robocop_prefixes": [
+      "베큠",
+      "베큠백업",
+      "폐기물",
+      "비우기",
+      "닦기",
+      "담요"
+    ],
+    "definition": "avg_min = (sum of wm.total_time for members classified to process) / (distinct member count)"
+  }
+}

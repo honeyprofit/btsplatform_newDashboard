@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Local Dashboard</title>
+    <link rel="stylesheet" href="./app.css" />
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="range rangeCenter">
+        <label>
+          시작
+          <input id="dateFrom" type="date" value="2025-12-06" />
+        </label>
+        <label>
+          종료
+          <input id="dateTo" type="date" />
+        </label>
+        <button id="btnReload">적용</button>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="section">
+        <div class="sectionHeader">
+          <h2>Summary</h2>
+          <div class="hint">항공사별 건수 | 표준 대비 절감시간(분포)</div>
+        </div>
+
+        <div class="grid2">
+          <div class="card">
+            <div class="cardTitle" id="s1_chart1_title">항공사별 청소건수</div>
+            <div id="s1_chart_counts" class="chart"></div>
+          </div>
+          <div class="card">
+            <div class="cardTitle" id="s1_chart2_title">
+              표준 대비 절감시간(분포)
+            </div>
+            <div id="s1_chart_saved" class="chart"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="sectionHeader">
+          <h2>고객사별 리포트</h2>
+          <div class="hint">작업타입별 | 공정별</div>
+        </div>
+
+        <div class="tabs" id="s2_tabs"></div>
+        <div class="grid2" id="s2_cards"></div>
+      </section>
+
+      <section class="section">
+        <div class="sectionHeader">
+          <h2>작업자별 리포트</h2>
+          <div class="hint">수행횟수 / 작업자 퍼포먼스</div>
+        </div>
+
+        <div id="s3_tabs" class="tabs"></div>
+        <div class="tableWrap">
+          <table id="s3_table" class="dataTable"></table>
+        </div>
+
+        <div class="tabs_wrap">
+          <div id="s3_speed_tabs_airline" class="tabs"></div>
+          <div id="s3_speed_tabs_worktype" class="tabs"></div>
+        </div>
+
+        <div class="card" style="margin-top: 16px">
+          <div class="cardTitle">작업자별 공정 속도 비교</div>
+          <div
+            id="s3_speed_charts"
+            class="grid2"
+            style="margin-top: 16px"
+          ></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

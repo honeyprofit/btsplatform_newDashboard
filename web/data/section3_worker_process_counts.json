@@ -1,0 +1,560 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "rows": [
+    {
+      "airline": "8M",
+      "member_srl": 3450,
+      "member_name": "남윤일",
+      "process": "소닉",
+      "aircraft_cnt": 7
+    },
+    {
+      "airline": "8M",
+      "member_srl": 11948,
+      "member_name": "고희영",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "8M",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "8M",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "로보캅",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1170,
+      "member_name": "손안나",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "8M",
+      "member_srl": 11870,
+      "member_name": "전남균",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "8M",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "라바",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "8M",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "소닉",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "8M",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "8M",
+      "member_srl": 7836,
+      "member_name": "이상철",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1482,
+      "member_name": "이성철",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "8M",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 5901,
+      "member_name": "김진우",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 3450,
+      "member_name": "남윤일",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 12316,
+      "member_name": "박종휘",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1482,
+      "member_name": "이성철",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 804,
+      "member_name": "이희원",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "8M",
+      "member_srl": 804,
+      "member_name": "이희원",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 3450,
+      "member_name": "남윤일",
+      "process": "소닉",
+      "aircraft_cnt": 6
+    },
+    {
+      "airline": "HH",
+      "member_srl": 11948,
+      "member_name": "고희영",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "HH",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "로보캅",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "HH",
+      "member_srl": 11870,
+      "member_name": "전남균",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "HH",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "소닉",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "HH",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "로보캅",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "HH",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "라바",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1170,
+      "member_name": "손안나",
+      "process": "소닉",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "HH",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "HH",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "HH",
+      "member_srl": 7836,
+      "member_name": "이상철",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1482,
+      "member_name": "이성철",
+      "process": "로보캅",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "HH",
+      "member_srl": 804,
+      "member_name": "이희원",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "HH",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 5901,
+      "member_name": "김진우",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 12316,
+      "member_name": "박종휘",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1170,
+      "member_name": "손안나",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 12400,
+      "member_name": "오수인",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "HH",
+      "member_srl": 12801,
+      "member_name": "장정희",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "소닉",
+      "aircraft_cnt": 8
+    },
+    {
+      "airline": "RF",
+      "member_srl": 11870,
+      "member_name": "전남균",
+      "process": "소닉",
+      "aircraft_cnt": 7
+    },
+    {
+      "airline": "RF",
+      "member_srl": 11948,
+      "member_name": "고희영",
+      "process": "소닉",
+      "aircraft_cnt": 6
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "소닉",
+      "aircraft_cnt": 6
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3450,
+      "member_name": "남윤일",
+      "process": "소닉",
+      "aircraft_cnt": 6
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1170,
+      "member_name": "손안나",
+      "process": "소닉",
+      "aircraft_cnt": 6
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "소닉",
+      "aircraft_cnt": 5
+    },
+    {
+      "airline": "RF",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "로보캅",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "RF",
+      "member_srl": 804,
+      "member_name": "이희원",
+      "process": "소닉",
+      "aircraft_cnt": 4
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "로보캅",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "RF",
+      "member_srl": 7836,
+      "member_name": "이상철",
+      "process": "소닉",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1482,
+      "member_name": "이성철",
+      "process": "소닉",
+      "aircraft_cnt": 3
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3442,
+      "member_name": "곽은태",
+      "process": "라바",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "로보캅",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "라바",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 3444,
+      "member_name": "김성화",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 12316,
+      "member_name": "박종휘",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1482,
+      "member_name": "이성철",
+      "process": "로보캅",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 12801,
+      "member_name": "장정희",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 11950,
+      "member_name": "정우람",
+      "process": "소닉",
+      "aircraft_cnt": 2
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1336,
+      "member_name": "구슬기",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 5901,
+      "member_name": "김진우",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 803,
+      "member_name": "김태섭",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 10954,
+      "member_name": "김흥준",
+      "process": "로보캅",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1170,
+      "member_name": "손안나",
+      "process": "라바",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 12400,
+      "member_name": "오수인",
+      "process": "소닉",
+      "aircraft_cnt": 1
+    },
+    {
+      "airline": "RF",
+      "member_srl": 1481,
+      "member_name": "이충선",
+      "process": "라바",
+      "aircraft_cnt": 1
+    }
+  ],
+  "meta": {
+    "definition": "aircraft_cnt = COUNT(DISTINCT work_id) per (airline, member, process)",
+    "processes": [
+      "소닉",
+      "라바",
+      "로보캅"
+    ],
+    "exclude_labels": [
+      "OJT",
+      "무효"
+    ],
+    "name_rule": "member_name = nick_name if exists else user_name"
+  }
+}

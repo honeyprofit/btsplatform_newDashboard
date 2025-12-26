@@ -1,0 +1,14 @@
+{
+  "default_standard_sec": 1050,
+  "by_airline_aircraft": {
+    "8M|B1": 980,
+    "8M|B1_1": 1128,
+    "8M|B2": 1080,
+
+    "RF|B3": 1050,
+    "RF|B3_1": 1212,
+
+    "HH|B4": 1458,
+    "HH|B5": 1407
+  }
+}

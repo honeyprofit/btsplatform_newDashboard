@@ -1,0 +1,125 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "airlines": [
+    "HH",
+    "RF",
+    "8M"
+  ],
+  "points": [
+    {
+      "airline": "RF",
+      "saved_sec": 307.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 414.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 2.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 144.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 117.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 391.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 62.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": -44.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 113.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 136.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 445.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 118.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": -6.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": -45.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 14.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 165.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 64.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 111.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 68.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 399.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 3.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 39.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 121.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 120.0
+    },
+    {
+      "airline": "HH",
+      "saved_sec": 464.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 70.0
+    },
+    {
+      "airline": "RF",
+      "saved_sec": 105.0
+    },
+    {
+      "airline": "8M",
+      "saved_sec": 80.0
+    }
+  ]
+}

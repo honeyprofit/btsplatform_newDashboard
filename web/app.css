@@ -1,0 +1,341 @@
+:root {
+  /* Brand Palette */
+  --primary: #69c6dd;
+  --bg-main: #ffffff;
+  --bg-soft: #eaf5f7;
+
+  --text-main: #253036;
+  --text-muted: #63666a;
+
+  --border-light: #d6d7d7;
+  --border-soft: #ebeae6;
+
+  --link: #0459a5;
+  --accent-warn: #ecab86;
+  --accent-soft: #b2c6d3;
+
+  --shadow-soft: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background: var(--bg-main);
+  color: var(--text-main);
+}
+
+/* ===== Top Bar ===== */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border-light);
+  background: var(--bg-main);
+}
+
+/* Date range row */
+.range {
+  display: flex;
+  gap: 10px;
+  align-items: end;
+  flex-wrap: wrap;
+}
+
+/* 가운데 정렬 */
+.rangeCenter {
+  justify-content: center;
+  width: 100%;
+  max-width: 720px;
+}
+
+.range label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.range input {
+  background: #fff;
+  border: 1px solid var(--border-light);
+  color: var(--text-main);
+  padding: 8px 10px;
+  border-radius: 8px;
+}
+
+.range button {
+  background: var(--primary);
+  border: 1px solid var(--primary);
+  color: #fff;
+  padding: 9px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.range button:hover {
+  background: #5bbad2;
+}
+
+/* ===== Layout ===== */
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section {
+  margin: 16px 0 26px;
+  padding: 16px;
+  border: 1px solid var(--border-soft);
+  border-radius: 14px;
+  background: var(--bg-soft);
+}
+
+.section.muted {
+  opacity: 0.6;
+}
+
+/* ===== Section Header ===== */
+.sectionHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px 4px 16px;
+}
+
+.sectionHeader h2 {
+  margin: 0;
+  font-size: 15px;
+  color: var(--text-main);
+}
+
+.sectionHeader .hint {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ===== Cards ===== */
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.card {
+  border: 1px solid var(--border-light);
+  background: #fff;
+  border-radius: 14px;
+  padding: 14px;
+  min-height: 420px;
+}
+
+.cardTitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+/* ===== Charts ===== */
+.chart {
+  width: 100%;
+  height: 360px;
+}
+
+/* ===== Tabs ===== */
+.tabs {
+  display: flex;
+  gap: 10px;
+  padding: 8px 4px 14px;
+  flex-wrap: wrap;
+}
+
+.tabs_wrap {
+  margin-top: 20px;
+}
+
+.tabBtn {
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border-light);
+  background: #fff;
+  cursor: pointer;
+  font-weight: 800;
+  color: var(--text-main);
+}
+
+.tabBtn.active {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(105, 198, 221, 0.25);
+}
+
+/* ===== Table Wrap (Section 3) ===== */
+.tableWrap {
+  margin-top: 12px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  overflow: auto; /* 작은 화면에서 가로 스크롤 */
+  box-shadow: var(--shadow-soft);
+}
+
+/* ===== Table ===== */
+.dataTable {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 15px;
+  color: var(--text-main);
+}
+
+.dataTable thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #f6f9fb;
+  color: var(--text-main);
+  text-align: left;
+  font-weight: 800;
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  white-space: nowrap;
+}
+
+/* 헤더 숫자/배지 칼럼은 가운데 정렬 (배지가 예쁘게 보이게) */
+.dataTable thead th.num {
+  text-align: center;
+}
+
+.dataTable tbody td {
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  color: var(--text-main);
+  white-space: nowrap;
+}
+
+.dataTable tbody tr:nth-child(odd) {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+.dataTable tbody tr:hover {
+  background: rgba(105, 198, 221, 0.12);
+}
+
+/* 바디 숫자 칼럼은 오른쪽 정렬 */
+.dataTable tbody td.num {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== Badges ===== */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 1;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.badge.sonic {
+  background: rgba(4, 89, 165, 0.1);
+  color: #0459a5;
+  border-color: rgba(4, 89, 165, 0.2);
+}
+
+.badge.lava {
+  background: rgba(236, 171, 134, 0.18);
+  color: #9a4b1f;
+  border-color: rgba(236, 171, 134, 0.35);
+}
+
+.badge.robo {
+  background: rgba(37, 48, 54, 0.1);
+  color: #253036;
+  border-color: rgba(0, 0, 0, 0.12);
+}
+
+/* ===== Optional: table meta row ===== */
+.tableMeta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 2px 0 2px;
+  color: #60727b;
+  font-size: 12px;
+}
+
+/* ===== Plotly Overrides ===== */
+.plotly text {
+  fill: var(--text-main) !important;
+}
+
+.plotly .legend text {
+  fill: var(--text-main) !important;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 980px) {
+  .grid2 {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    min-height: 380px;
+  }
+
+  .chart {
+    height: 320px;
+  }
+}
+
+@media (max-width: 720px) {
+  /* 모바일: 가로 스크롤 없애고 칼럼 폭 자동 압축 */
+  .tableWrap {
+    overflow: hidden; /* 가로 스크롤바 제거 */
+  }
+
+  .dataTable {
+    min-width: 0; /* 혹시 남아있을 경우 대비 */
+    table-layout: fixed; /* 좁아질 때 균등하게 줄어듦 */
+  }
+
+  /* 모바일에서는 줄바꿈/축약 허용 */
+  .dataTable thead th,
+  .dataTable tbody td {
+    white-space: normal; /* nowrap 해제 */
+    padding: 10px 10px; /* 패딩 줄여서 공간 확보 */
+  }
+
+  /* 작업자 이름이 길면 ... 처리 (2줄 대신 한 줄 유지하고 싶으면) */
+  .dataTable tbody td:first-child {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 0; /* fixed table에서 ellipsis가 먹게 하는 트릭 */
+  }
+
+  /* 숫자 폰트 살짝만 줄여서 꽉 끼는 느낌 방지 */
+  .dataTable {
+    font-size: 14px;
+  }
+
+  /* 배지도 조금 작게 */
+  .badge {
+    padding: 3px 8px;
+    font-size: 11px;
+  }
+}

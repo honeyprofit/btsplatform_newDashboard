@@ -1,0 +1,20 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "airlines": [
+    {
+      "code": "RF",
+      "count": 14
+    },
+    {
+      "code": "HH",
+      "count": 6
+    },
+    {
+      "code": "8M",
+      "count": 8
+    }
+  ]
+}

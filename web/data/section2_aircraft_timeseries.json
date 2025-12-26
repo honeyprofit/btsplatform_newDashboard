@@ -1,0 +1,238 @@
+{
+  "range": {
+    "from": "20251206",
+    "to": "20251226"
+  },
+  "series": {
+    "8M|B1": [
+      {
+        "yyyymmdd": 20251207,
+        "n": 1,
+        "avg_actual_sec": 836.0,
+        "min_actual_sec": 836,
+        "max_actual_sec": 836,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251209,
+        "n": 1,
+        "avg_actual_sec": 1024.0,
+        "min_actual_sec": 1024,
+        "max_actual_sec": 1024,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251211,
+        "n": 1,
+        "avg_actual_sec": 862.0,
+        "min_actual_sec": 862,
+        "max_actual_sec": 862,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251212,
+        "n": 1,
+        "avg_actual_sec": 1025.0,
+        "min_actual_sec": 1025,
+        "max_actual_sec": 1025,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251214,
+        "n": 1,
+        "avg_actual_sec": 912.0,
+        "min_actual_sec": 912,
+        "max_actual_sec": 912,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251216,
+        "n": 1,
+        "avg_actual_sec": 941.0,
+        "min_actual_sec": 941,
+        "max_actual_sec": 941,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251218,
+        "n": 1,
+        "avg_actual_sec": 910.0,
+        "min_actual_sec": 910,
+        "max_actual_sec": 910,
+        "standard_sec": 980
+      },
+      {
+        "yyyymmdd": 20251219,
+        "n": 1,
+        "avg_actual_sec": 900.0,
+        "min_actual_sec": 900,
+        "max_actual_sec": 900,
+        "standard_sec": 980
+      }
+    ],
+    "HH|B4": [
+      {
+        "yyyymmdd": 20251206,
+        "n": 1,
+        "avg_actual_sec": 1044.0,
+        "min_actual_sec": 1044,
+        "max_actual_sec": 1044,
+        "standard_sec": 1458
+      },
+      {
+        "yyyymmdd": 20251208,
+        "n": 1,
+        "avg_actual_sec": 1067.0,
+        "min_actual_sec": 1067,
+        "max_actual_sec": 1067,
+        "standard_sec": 1458
+      },
+      {
+        "yyyymmdd": 20251211,
+        "n": 1,
+        "avg_actual_sec": 1013.0,
+        "min_actual_sec": 1013,
+        "max_actual_sec": 1013,
+        "standard_sec": 1458
+      },
+      {
+        "yyyymmdd": 20251213,
+        "n": 1,
+        "avg_actual_sec": 1293.0,
+        "min_actual_sec": 1293,
+        "max_actual_sec": 1293,
+        "standard_sec": 1458
+      },
+      {
+        "yyyymmdd": 20251215,
+        "n": 1,
+        "avg_actual_sec": 1059.0,
+        "min_actual_sec": 1059,
+        "max_actual_sec": 1059,
+        "standard_sec": 1458
+      },
+      {
+        "yyyymmdd": 20251218,
+        "n": 1,
+        "avg_actual_sec": 994.0,
+        "min_actual_sec": 994,
+        "max_actual_sec": 994,
+        "standard_sec": 1458
+      }
+    ],
+    "RF|Unknown": [
+      {
+        "yyyymmdd": 20251206,
+        "n": 1,
+        "avg_actual_sec": 743.0,
+        "min_actual_sec": 743,
+        "max_actual_sec": 743,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251207,
+        "n": 1,
+        "avg_actual_sec": 1048.0,
+        "min_actual_sec": 1048,
+        "max_actual_sec": 1048,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251208,
+        "n": 1,
+        "avg_actual_sec": 933.0,
+        "min_actual_sec": 933,
+        "max_actual_sec": 933,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251209,
+        "n": 1,
+        "avg_actual_sec": 988.0,
+        "min_actual_sec": 988,
+        "max_actual_sec": 988,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251210,
+        "n": 1,
+        "avg_actual_sec": 937.0,
+        "min_actual_sec": 937,
+        "max_actual_sec": 937,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251211,
+        "n": 1,
+        "avg_actual_sec": 914.0,
+        "min_actual_sec": 914,
+        "max_actual_sec": 914,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251212,
+        "n": 1,
+        "avg_actual_sec": 1056.0,
+        "min_actual_sec": 1056,
+        "max_actual_sec": 1056,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251213,
+        "n": 1,
+        "avg_actual_sec": 1036.0,
+        "min_actual_sec": 1036,
+        "max_actual_sec": 1036,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251214,
+        "n": 1,
+        "avg_actual_sec": 939.0,
+        "min_actual_sec": 939,
+        "max_actual_sec": 939,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251215,
+        "n": 1,
+        "avg_actual_sec": 986.0,
+        "min_actual_sec": 986,
+        "max_actual_sec": 986,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251216,
+        "n": 1,
+        "avg_actual_sec": 1047.0,
+        "min_actual_sec": 1047,
+        "max_actual_sec": 1047,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251217,
+        "n": 1,
+        "avg_actual_sec": 929.0,
+        "min_actual_sec": 929,
+        "max_actual_sec": 929,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251218,
+        "n": 1,
+        "avg_actual_sec": 930.0,
+        "min_actual_sec": 930,
+        "max_actual_sec": 930,
+        "standard_sec": 1050
+      },
+      {
+        "yyyymmdd": 20251219,
+        "n": 1,
+        "avg_actual_sec": 945.0,
+        "min_actual_sec": 945,
+        "max_actual_sec": 945,
+        "standard_sec": 1050
+      }
+    ]
+  }
+}
